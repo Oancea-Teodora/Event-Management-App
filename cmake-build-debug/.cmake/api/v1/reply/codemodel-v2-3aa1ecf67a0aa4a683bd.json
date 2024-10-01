@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oop_a10_915_Oancea_Teodora",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "oop_a10_915_Oancea_Teodora::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop_a10_915_Oancea_Teodora-Debug-80707b6fb44caa7b6560.json",
+					"name" : "oop_a10_915_Oancea_Teodora",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oop_a10_915_Oancea_Teodora_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop_a10_915_Oancea_Teodora_autogen-Debug-bc72d725a609a2fc5fbc.json",
+					"name" : "oop_a10_915_Oancea_Teodora_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oop_a10_915_Oancea_Teodora_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop_a10_915_Oancea_Teodora_autogen_timestamp_deps-Debug-6ccf6984b1caedaa7c17.json",
+					"name" : "oop_a10_915_Oancea_Teodora_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oop_a10_915_Oancea_Teodora_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop_a10_915_Oancea_Teodora_qmlimportscan-Debug-c5b6c4645476c88f445a.json",
+					"name" : "oop_a10_915_Oancea_Teodora_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/teodo/Documents/GitHub/oop-a10-915-Oancea-Teodora/cmake-build-debug",
+		"source" : "C:/Users/teodo/Documents/GitHub/oop-a10-915-Oancea-Teodora"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

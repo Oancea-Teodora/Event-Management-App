@@ -1,0 +1,6 @@
+"C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\teodo\Documents\GitHub\oop-a10-915-Oancea-Teodora -B C:\Users\teodo\Documents\GitHub\oop-a10-915-Oancea-Teodora\cmake-build-debug
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Configuring done (10.2s)
+-- Generating done (2.1s)
+-- Build files have been written to: C:/Users/teodo/Documents/GitHub/oop-a10-915-Oancea-Teodora/cmake-build-debug

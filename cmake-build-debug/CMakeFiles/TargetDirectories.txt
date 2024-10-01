@@ -1,0 +1,6 @@
+C:/Users/teodo/Documents/GitHub/oop-a10-915-Oancea-Teodora/cmake-build-debug/CMakeFiles/oop_a10_915_Oancea_Teodora.dir
+C:/Users/teodo/Documents/GitHub/oop-a10-915-Oancea-Teodora/cmake-build-debug/CMakeFiles/oop_a10_915_Oancea_Teodora_qmlimportscan.dir
+C:/Users/teodo/Documents/GitHub/oop-a10-915-Oancea-Teodora/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/teodo/Documents/GitHub/oop-a10-915-Oancea-Teodora/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/teodo/Documents/GitHub/oop-a10-915-Oancea-Teodora/cmake-build-debug/CMakeFiles/oop_a10_915_Oancea_Teodora_autogen_timestamp_deps.dir
+C:/Users/teodo/Documents/GitHub/oop-a10-915-Oancea-Teodora/cmake-build-debug/CMakeFiles/oop_a10_915_Oancea_Teodora_autogen.dir
